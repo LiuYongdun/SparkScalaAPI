@@ -1,6 +1,6 @@
 package TopNInGroups
 
-import IOUtils.IOUtils
+import MyUtils.IOUtils
 import org.apache.spark.{Partitioner, SparkContext}
 import org.apache.spark.rdd.RDD
 

@@ -1,5 +1,5 @@
 package SparkSQL
-import IOUtils.IOUtils
+import MyUtils.IOUtils
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.{DataFrame, SQLContext}
 

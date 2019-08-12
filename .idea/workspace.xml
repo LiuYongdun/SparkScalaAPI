@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c650477e-84c7-4371-9173-54b51402a1a4" name="Default Changelist" comment="" />
+    <list default="true" id="c650477e-84c7-4371-9173-54b51402a1a4" name="Default Changelist" comment="新增多个Demo">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo5.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo6.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SparkScalaAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SparkScalaAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$03e816e8ca87e9ffcb76$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$03e816e8ca87e9ffcb76.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$03e816e8ca87e9ffcb76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1dac914688768fe7876e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1dac914688768fe7876e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1dac914688768fe7876e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$360e589a27d8bfa28ba1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$360e589a27d8bfa28ba1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$360e589a27d8bfa28ba1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c228ca65f9d4cbf591f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c228ca65f9d4cbf591f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3c228ca65f9d4cbf591f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkscalaapi-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkscalaapi-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkscalaapi-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkscalaapi-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkscalaapi-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/IOUtils/IOUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/MyUtils/IOUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkSQL/SparkSQLDemo2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TopNInGroups/TopNInGroups.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TopNInGroups/TopNInGroups.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOUtils/IOUtils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOUtils/IOUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sparkscalaapi.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLDemo1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLDemo1$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLDemo2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SparkSQL/SparkSQLDemo2$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TopNInGroups/TopNInGroups$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TopNInGroups/TopNInGroups$.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +121,23 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OlplzoQxZghqOij3ytK11MnOeV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/SparkSQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
+    <property name="settings.editor.splitter.proportion" value="0.19596942" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,17 +156,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SparkSQLDemo3">
+  <component name="RunManager" selected="Application.SparkSQLDemo6">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="sparkscalaapi" />
+      <module name="SparkScalaAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparkSQL" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQL" />
-      <module name="sparkscalaapi" />
+    <configuration name="SparkSQLDemo4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQLDemo4" />
+      <module name="SparkScalaAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SparkSQL.*" />
@@ -110,9 +177,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparkSQLDemo2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQLDemo2" />
-      <module name="sparkscalaapi" />
+    <configuration name="SparkSQLDemo5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQLDemo5" />
+      <module name="SparkScalaAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SparkSQL.*" />
@@ -123,9 +190,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparkSQLDemo3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQLDemo3" />
-      <module name="sparkscalaapi" />
+    <configuration name="SparkSQLDemo6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkSQL.SparkSQLDemo6" />
+      <module name="SparkScalaAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SparkSQL.*" />
@@ -136,33 +203,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopNInGroups" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TopNInGroups.TopNInGroups" />
-      <module name="sparkscalaapi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TopNInGroups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="SparkScalaAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SparkSQLDemo4" />
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.TopNInGroups" />
-      <item itemvalue="Application.SparkSQL" />
-      <item itemvalue="Application.SparkSQLDemo2" />
-      <item itemvalue="Application.SparkSQLDemo3" />
+      <item itemvalue="Application.SparkSQLDemo5" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SparkSQLDemo6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SparkSQLDemo3" />
-        <item itemvalue="Application.SparkSQLDemo2" />
-        <item itemvalue="Application.SparkSQL" />
-        <item itemvalue="Application.TopNInGroups" />
+        <item itemvalue="Application.SparkSQLDemo6" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SparkSQLDemo5" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.SparkSQLDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +293,21 @@
       <workItem from="1564651344919" duration="1000" />
       <workItem from="1564651383991" duration="868000" />
       <workItem from="1564728798469" duration="1869000" />
-      <workItem from="1564737009328" duration="622000" />
+      <workItem from="1564737009328" duration="1443000" />
+      <workItem from="1564747004857" duration="626000" />
+      <workItem from="1565076810585" duration="15873000" />
+      <workItem from="1565170191693" duration="320000" />
+      <workItem from="1565170534304" duration="35000" />
+      <workItem from="1565170865271" duration="131000" />
+      <workItem from="1565171026225" duration="793000" />
+      <workItem from="1565171833094" duration="46000" />
+      <workItem from="1565171890888" duration="133000" />
+      <workItem from="1565172037568" duration="24000" />
+      <workItem from="1565225682547" duration="326000" />
+      <workItem from="1565226024034" duration="49000" />
+      <workItem from="1565226089373" duration="5369000" />
+      <workItem from="1565231479855" duration="1334000" />
+      <workItem from="1565232979988" duration="15861000" />
     </task>
     <task id="LOCAL-00001" summary=".idea文件夹新增文件">
       <created>1564737630626</created>
@@ -241,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564737630626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".idea/workspace.xml修改">
+      <created>1564737813393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564737813393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -261,7 +343,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -269,7 +353,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".idea文件夹新增文件" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea文件夹新增文件" />
+    <MESSAGE value=".idea/workspace.xml修改" />
+    <MESSAGE value="新增多个Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增多个Demo" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
